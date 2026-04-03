@@ -1,4 +1,4 @@
-public class UC1 {
+public class HELLOAPP {
     public static void main(String[] args){
         System.out.println("HelloApp");
     }
