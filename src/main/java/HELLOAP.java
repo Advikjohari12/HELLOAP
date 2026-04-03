@@ -1,4 +1,4 @@
-public class HelloApp{
+public class HELLOAP{
     public static void main(String[] args){
         String name = "";
         String name1 = "";
@@ -7,6 +7,7 @@ public class HelloApp{
                 name += "," + arg;
             }
         }
+
         System.out.println("Hello " + name + "!");
 
     }
